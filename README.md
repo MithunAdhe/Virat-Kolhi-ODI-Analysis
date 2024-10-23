@@ -20,39 +20,39 @@ Below are the key questions I addressed through this analysis, along with their 
 
 ### 1. **Top 5 Grounds Where Virat Kohli Scored the Most Runs**
 *Key Insight*: These venues have seen Kohli dominate the field with massive run totals.  
-![Top 5 Grounds](images/Top_5_Ground.png)
+![Top 5 Grounds](images/Top%205%20Ground.png)
 
 ### 2. **Opposition Against Whom He Has the Highest Average Score**
 *Key Insight*: Kohli tends to perform exceptionally well against certain teams.  
-![Top Opposition](images/Avg Runs Against.png)
+![Top Opposition](images/Avg%20Runs%20Against.png)
 
 ### 3. **Distribution of His Scores (Runs) in ODIs**
 *Key Insight*: Visualizing how frequently Kohli scores in different ranges.  
-![Run Distribution](images/Distribution_of_runs.png)
+![Run Distribution](images/Distribution%20of%20runs.png)
 
 ### 4. **Strike Rate Distribution Across Different Innings (First vs. Second)**
 *Key Insight*: How his strike rate varies between chasing and setting targets.  
-![Strike Rate Distribution](images/sr_distribution.png)
+![Strike Rate Distribution](images/sr%29distribution.png)
 
 ### 5. **Scoring Pattern Based on Number of Boundaries (4s and 6s)**
 *Key Insight*: Kohli’s boundary-hitting ability analyzed.  
-![Boundary Scoring Pattern](images/Runs_Vs_Bondries.png)
+![Boundary Scoring Pattern](images/Runs%20Vs%20Bondries.png)
 
 ### 6. **Distribution of Balls Faced in an Inning**
 *Key Insight*: How many balls Kohli tends to face in his ODI innings.  
-![Balls Faced Distribution](images/Distribution_Of_BF.png)
+![Balls Faced Distribution](images/Distribution%20Of%20BF.png)
 
 ### 7. **How Batting Position Affects Runs Scored**
 *Key Insight*: Kohli’s performance across different positions in the batting order.  
-![Batting Position and Runs](images/Runs_By_Batting_POS.png)
+![Batting Position and Runs](images/Runs%20By%20Batting%20POS.png)
 
 ### 8. **Most Frequent Types of Dismissals for Virat Kohli**
 *Key Insight*: Understanding how Kohli often gets out, which informs his vulnerabilities.  
-![Dismissals](images/Types_Of_Dismissal.png)
+![Dismissals](images/Types%20Of%20Dismissal.png)
 
 ### 9. **Venues with His Best Performances (Centuries and Half-Centuries)**
 *Key Insight*: A look at where Kohli has produced his best match-winning knocks.  
-![Best Venues](images/Best_Venus.png)
+![Best Venues](images/Best%20Venus.png)
 
 ## 🛠️ Technologies Used
 - **Python**: For data manipulation and analysis (Pandas)
@@ -65,8 +65,8 @@ To run this project locally, follow these steps:
 
 1. **Clone the Repository**:  
    Open your terminal or command prompt and run the following command to clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/virat-kohli-odi-performance-analysis.git
+      ```bash
+      git clone https://github.com/MithunAdhe/virat-kohli-odi-performance-analysis.git
 
 2. **Navigate to the Project Directory**:
 Change into the project directory using:
