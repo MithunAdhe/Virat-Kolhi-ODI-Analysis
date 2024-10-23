@@ -24,7 +24,7 @@ Below are the key questions I addressed through this analysis, along with their 
 
 ### 2. **Opposition Against Whom He Has the Highest Average Score**
 *Key Insight*: Kohli tends to perform exceptionally well against certain teams.  
-![Top Opposition](images/Avg_Runs_Against.png)
+![Top Opposition](images/Avg Runs Against.png)
 
 ### 3. **Distribution of His Scores (Runs) in ODIs**
 *Key Insight*: Visualizing how frequently Kohli scores in different ranges.  
